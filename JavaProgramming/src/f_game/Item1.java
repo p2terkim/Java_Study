@@ -1,7 +1,7 @@
 package f_game;
 
 public class Item1 {
-	
+	//test
 	//아이템 속성
 	String name;	//이름
 	int hp; 		//체력
